@@ -9,6 +9,10 @@
 😄 In 2020, I shifted my career focus to academia by joining HCMC University of Technology and Education, driven by a passion for research and teaching. Here I took on the duties of overseeing Criterion 5 in the AUN-QA evaluation (ASEAN institution Network-Quality Assurance) and creating the curriculum for biomedical imaging technology at the institution. My teaching responsibilities included courses in biomedical imaging technology and image processing. Additionally, I have supervised undergraduate students for their theses, guiding them in their academic and research pursuits.
 
 ⚡Currently, I am working as a Postdoctoral Associate at Western University, Canada. My project is personalized dosimetry in targeted radionuclide therapy, focusing on predicting absorbed doses in prostate cancer treated by 177Lu-PSMA, using the Monte Carlo simulation. My long-term goal is to become a qualified medical physicist and toward an ABR certification to work as a researcher and to work in the clinic.
+
+
+## Connect with me 💬
+
 <!--
 **thanhtaiphys/thanhtaiphys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
