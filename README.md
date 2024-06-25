@@ -19,7 +19,8 @@
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=Google%20Scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=D_fwrx4AAAAJ&view_op=list_works&sortby=pubdate)
 [![Scopus](https://img.shields.io/badge/-Scopus-00A676?style=flat-square&logo=Scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57194330291)
 [![Web of Science](https://img.shields.io/badge/-Web%20of%20Science-F58025?style=flat-square&logo=Web%20of%20Science&logoColor=white)](https://www.webofscience.com/wos/author/record/U-9445-2018)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/drduongthanhtai/)
+
 
 <!--
 **thanhtaiphys/thanhtaiphys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
