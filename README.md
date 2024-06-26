@@ -20,6 +20,7 @@
 [![Scopus](https://img.shields.io/badge/-Scopus-00A676?style=flat-square&logo=Scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57194330291)
 [![Web of Science](https://img.shields.io/badge/-Web%20of%20Science-F58025?style=flat-square&logo=Web%20of%20Science&logoColor=white)](https://www.webofscience.com/wos/author/record/U-9445-2018)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/drduongthanhtai/)
+[![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Duong-Thanh-Tai-2)
 
 
 <!--
