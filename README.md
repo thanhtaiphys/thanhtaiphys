@@ -12,9 +12,7 @@
 
 
 ## Connect with me 💬 
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2x3bHpmN2g1MTkyeWF4b3ZiYzcyMGIxbmh2ajNmdTgxdHg3Y3dkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fvx95jkua5th3YeThr/giphy.gif" width="100"/>
-</div>
+
 
 [![Google Sites](https://img.shields.io/badge/-Google%20Sites-4285F4?style=flat-square&logo=Google%20Sites&logoColor=white)](https://sites.google.com/view/drduongthanhtai/home)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thanhtaiphys)
@@ -25,7 +23,16 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/drduongthanhtai/)
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Duong-Thanh-Tai-2)
 
+## Languages and Tools
+- **Monte Carlo simulation (EGSnrc, TOPAS, GAMOS)**
+- **Python**
+- **Matlab**
+- **3D-Slicer**
+- **LIFEx**
 
+<div id="header" align="left">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2x3bHpmN2g1MTkyeWF4b3ZiYzcyMGIxbmh2ajNmdTgxdHg3Y3dkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fvx95jkua5th3YeThr/giphy.gif" width="100"/>
+</div>
 
 <!--
 **thanhtaiphys/thanhtaiphys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
