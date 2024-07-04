@@ -29,7 +29,8 @@
 - **Matlab**
 - **3D-Slicer**
 - **LIFEx**
-
+## My CV
+- [My CV](https://github.com/thanhtaiphys/Resume/blob/main/TDuong%20CV%20May%202024.pdf)
 <div id="header" align="left">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2x3bHpmN2g1MTkyeWF4b3ZiYzcyMGIxbmh2ajNmdTgxdHg3Y3dkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fvx95jkua5th3YeThr/giphy.gif" width="100"/>
 </div>
